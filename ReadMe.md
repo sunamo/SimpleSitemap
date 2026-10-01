@@ -1,3 +1,7 @@
+## Short description
+
+Fork knihovny pro generování XML sitemap pro .NET: SitemapNode, SitemapService a konverze do XML. Obsahuje testy s ukázkovými výsledky.
+
 ![SimpleSitemap](http://i.imgur.com/Dex0etR.png)
 ---
 
