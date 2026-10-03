@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="src/SimpleSitemap/SimpleSitemap.csproj" />
+  <Project Path="tests/SimpleSiteMap.Tests/SimpleSiteMap.Tests.csproj" />
+</Solution>
