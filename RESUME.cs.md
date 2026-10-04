@@ -1,6 +1,6 @@
 ---
 schema_version: 6
-type: library
+type: notmine_library
 file_count: 24
 avg_lines_per_file: 47
 move_to_legacy_percent: 40
